@@ -1,6 +1,6 @@
 # FoodGPT: A Nagpur Based Food Recommendation Chat
 
-![FoodGPT Logo](insert_image_url_here)
+![FoodGPT Logo](https://github.com/prasanna-muppidwar/Nagpur-FoodGPT/blob/main/logo.png)
 
 ## Project Overview
 
